@@ -12,5 +12,6 @@ It is a tkinter ,Python project open for contribution and beginner friendly.
 
 
 ## Contributing
-Pull requests are welcome.
-Hacktoberfest beginers are welcome for this project.
+Pull requests are welcome but spamming is not allowed.
+Dont ruin the learning environment
+
